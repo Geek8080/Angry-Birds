@@ -1,2 +1,2 @@
 # Angry-Birds
-Desktop Game
+Desktop Game: A simple game to simulate projectiles of angry birds
